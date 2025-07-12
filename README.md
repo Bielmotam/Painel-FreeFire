@@ -13,7 +13,7 @@ Bem-vindo ao **Painel de Likes Free Fire**, uma ferramenta online gratuita para 
 
 ## 📖 Sobre o Projeto
 
-O **Painel de Likes Free Fire** permite que jogadores gerem até **100 likes por dia** em seus perfis ao inserir seu **ID do Free Fire**. Com **519 requisições** e **355 membros**, nossa ferramenta é focada em oferecer uma experiência de qualidade, segura e sem riscos de banimento, ideal para destacar seu perfil na comunidade Free Fire.
+O **Painel de Likes Free Fire** permite que jogadores gerem até **100 likes por dia** em seus perfis ao inserir seu **ID do Free Fire**. Nossa ferramenta é focada em oferecer uma experiência de qualidade, segura e sem riscos de banimento, ideal para destacar seu perfil na comunidade Free Fire.
 
 > **Nota**: Os likes aumentam a popularidade do perfil, mas não afetam diretamente os rankings do jogo. Este painel não tem nenhuma ligação oficial com a **Garena Free Fire**.
 
